@@ -1,0 +1,7 @@
+streamlit
+git+https://github.com/openai/whisper.git
+spacy
+nltk
+transformers
+gTTS
+torch
